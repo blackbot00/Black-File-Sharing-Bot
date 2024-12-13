@@ -1,0 +1,7 @@
+{
+    "bot_name": "File Sharing Bot",
+    "api_key": "aZnXEWSO6GVo60oUECFBP5wwGmHushwwqr-iPVaJ",
+    "endpoint": "https://your-bot-endpoint.com",
+    "max_file_size": "4GB",
+    "allowed_file_types": ["pdf", "jpg", "png", "apk", "mkv", "mp4"]
+}
