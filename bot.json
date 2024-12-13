@@ -4,4 +4,6 @@
     "endpoint": "https://your-bot-endpoint.com",
     "max_file_size": "4GB",
     "allowed_file_types": ["pdf", "jpg", "png", "mkv", "apk", "mp4"]
+    "bb_sync_version": "1.0",
+    // Other configurations may follow...
 }
